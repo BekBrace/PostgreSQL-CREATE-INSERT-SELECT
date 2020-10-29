@@ -1,0 +1,1 @@
+INSERT INTO customers (first_name, last_name, email_address, phone_number, number_of_complaints) VALUES ('John', 'Doe', 'jdoe@mail.com', '5254525', 2);

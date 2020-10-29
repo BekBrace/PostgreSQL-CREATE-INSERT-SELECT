@@ -1,0 +1,1 @@
+birth_date DATE CHECK (birth_date > '1900-01-01')
